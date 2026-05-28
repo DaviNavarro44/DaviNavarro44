@@ -1,4 +1,11 @@
-## .
+## Aluno do Sesi Senai Cursando DS.
+
+## 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙰𝚂
+𝙿𝚈
+VSCODE
+𝚆𝙾𝙺𝙸𝚆𝙸
+
+Imortal Player Valorant
 
 <!--
 **DaviNavarro44/DaviNavarro44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
